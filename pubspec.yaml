@@ -30,6 +30,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Packages JohnZDictator customized or added
+  bloc: ^8.0.2
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
+  meta: ^1.7.0
+  uuid: ^3.0.5
+  json_annotation: ^4.4.0
+  postgres: ^2.4.3
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -38,6 +46,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  # Packages JohnZDictator managed or added
+  build_runner: ^2.1.7
+  json_serializable: ^6.1.4
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
